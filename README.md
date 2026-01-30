@@ -1,10 +1,10 @@
-🎓 Student Placement Predictor
-📌 Problem Statement
+#🎓 Student Placement Predictor
+##📌 Problem Statement
 In many colleges, students are unsure about their placement readiness due to a lack of proper assessment tools. There is no single platform that evaluates a student’s academic performance, technical skills, and test performance to predict placement chances and guide them with improvement suggestions.
 
 This project aims to solve that problem by providing an interactive placement prediction system for students.
 
-💡 Solution Approach
+##💡 Solution Approach
 The Student Placement Predictor is a Streamlit-based web application that:
 
 Collects student academic and personal details
@@ -14,7 +14,7 @@ Calculates placement probability
 Suggests suitable job roles and learning resources
 The system uses rule-based logic and assessment scoring to determine placement chances.
 
-🚀 Project Features
+##🚀 Project Features
 🧾 Student details collection (Name, Email, Mobile, Branch, Year, CGPA)
 📘 Skill level selection (Beginner / Intermediate / Advanced)
 📝 Online MCQ-based technical test (20 questions)
@@ -30,7 +30,7 @@ High / Medium / Low
 📝 Answer review with correct answers and references
 📁 Repository Structure Student-Placement-Predictor/ ├── datasets/ │ ├── cse_questions.csv # CSE branch questions │ ├── ece_questions.csv # ECE branch questions │ ├── eee_questions.csv # EEE branch questions │ ├── mech_questions.csv # Mechanical branch questions │ └── civil_questions.csv # Civil branch questions ├── app.py # Main Streamlit application ├── requirements.txt # Python dependencies └── README.md # Project documentation
 
-📊 Project Workflow
+##📊 Project Workflow
 Student enters personal and academic details
 Skill levels are selected based on knowledge
 System generates a branch-specific technical test
@@ -38,13 +38,13 @@ Student attempts the test within a time limit
 Answers are evaluated and score is calculated
 Placement probability is predicted
 Job roles and learning resources are recommended
-🧠 Technologies Used
+##🧠 Technologies Used
 Python
 Streamlit
 Pandas
 HTML & CSS (UI Styling)
 Git & GitHub
-🛠️ Installation & Setup
+##🛠️ Installation & Setup
 Prerequisites
 Python 3.8+
 Git
@@ -60,9 +60,9 @@ cd Student-Placement-Predictor
 
 🧑‍🎓 Author
 
-👩‍💻Madhuri Baddila
+👩‍💻Harshitha Yalla
 Capstone Project – Student Placement Predictor
 Training Program | January 2026
-🔗 Github:https://github.com/MADHURIBADDILA
-🔗 Linkdin:www.linkedin.com/in/
-madhuri-badhila-88a393353
+🔗 Github:
+🔗 Linkdin:
+
