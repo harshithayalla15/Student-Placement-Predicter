@@ -1,6 +1,6 @@
-## Student-Placement-Predicter
+# Student-Placement-Predicter
 
-#	Problem Statement: 
+##	Problem Statement: 
 
 The problem is that many students do not know whether they are ready for  campus placements .There is no system to predict placement chances based on their academic performance and skills. Because of this, students are unable to identify their strengths and weaknesses early.
 
