@@ -1,5 +1,5 @@
-#🎓 Student Placement Predictor
-##📌 Problem Statement
+##🎓 Student Placement Predictor
+###📌 Problem Statement
 In many colleges, students are unsure about their placement readiness due to a lack of proper assessment tools. There is no single platform that evaluates a student’s academic performance, technical skills, and test performance to predict placement chances and guide them with improvement suggestions.
 
 This project aims to solve that problem by providing an interactive placement prediction system for students.
