@@ -1,0 +1,91 @@
+Skill,Level,Question,Option1,Option2,Option3,Option4,Answer,Reference
+Python,Beginner,What is Python?,Programming Language,Snake,OS,Database,Programming Language,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+Python,Beginner,Which keyword is used to define a function?,func,def,function,define,def,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+Python,Beginner,Which data type is mutable?,Tuple,String,List,Integer,List,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+Python,Beginner,How to print in Python?,echo,printf,print,cout,print,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+Python,Beginner,Which symbol is used for comments?,//,#,/*,**,#,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+
+Python,Intermediate,What is list comprehension?,Loop syntax,Short list creation,Sorting,Function,Short list creation,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+Python,Intermediate,What does len() do?,Adds elements,Deletes elements,Returns length,Sorts list,Returns length,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+Python,Intermediate,What is a dictionary?,Ordered list,Key-value pair,String,Integer,Key-value pair,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+Python,Intermediate,Which is used for exception handling?,try-except,if-else,for-loop,while,try-except,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+Python,Intermediate,What does range() return?,List,Object,Iterator,String,Iterator,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+
+Python,Advanced,What is a decorator?,Design pattern,Function modifier,Loop,Class,Function modifier,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+Python,Advanced,What is GIL?,Thread lock,Memory manager,Compiler,Interpreter,Thread lock,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+Python,Advanced,What is lambda?,Anonymous function,Loop,Module,Class,Anonymous function,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+Python,Advanced,Which supports async programming?,asyncio,threading,time,random,asyncio,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+Python,Advanced,What is monkey patching?,Runtime change,Debugging,Testing,Inheritance,Runtime change,https://www.freecodecamp.org/learn/python-v9/#lecture-introduction-to-python
+
+Machine Learning,Beginner,What is Machine Learning?,Rule based system,AI subset,Database,OS,AI subset,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+Machine Learning,Beginner,Which is supervised learning?,Clustering,Regression,Association,PCA,Regression,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+Machine Learning,Beginner,Which library is used for ML?,NumPy,Pandas,Scikit-learn,OS,Scikit-learn,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+Machine Learning,Beginner,What is dataset?,Input data,Algorithm,Output,Code,Input data,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+Machine Learning,Beginner,What is label?,Feature,Output,Input,Model,Output,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+
+Machine Learning,Intermediate,What is overfitting?,High accuracy,Low bias,Model memorizes data,Under training,Model memorizes data,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+Machine Learning,Intermediate,What is train-test split?,Data divide,Model tuning,Prediction,Loss,Data divide,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+Machine Learning,Intermediate,What is normalization?,Scaling data,Deleting data,Training model,Testing,Scaling data,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+Machine Learning,Intermediate,Which metric for classification?,MSE,Accuracy,R2,RMSE,Accuracy,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+Machine Learning,Intermediate,What is confusion matrix?,Table of results,Graph,Algorithm,Loss,Table of results,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+
+Machine Learning,Advanced,What is gradient descent?,Optimization algorithm,Loss function,Metric,Dataset,Optimization algorithm,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+Machine Learning,Advanced,What is bias-variance tradeoff?,Model balance,Data split,Feature selection,Loss,Model balance,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+Machine Learning,Advanced,Which is ensemble method?,Linear regression,KNN,Random Forest,Naive Bayes,Random Forest,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+Machine Learning,Advanced,What is backpropagation?,Error propagation,Forward pass,Activation,Prediction,Error propagation,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+Machine Learning,Advanced,What is regularization?,Reduce overfitting,Increase data,Train fast,Test model,Reduce overfitting,https://www.geeksforgeeks.org/machine-learning/machine-learning/
+
+Java,Beginner,What is Java?,Programming Language,OS,Database,Browser,Programming Language,https://www.w3schools.com/java/
+Java,Beginner,Which company developed Java?,Microsoft,Sun Microsystems,Google,Apple,Sun Microsystems,https://www.w3schools.com/java/
+Java,Beginner,Which keyword is used to create object?,new,create,object,make,new,https://www.w3schools.com/java/
+Java,Beginner,Which method is entry point of Java?,main(),start(),run(),init(),main(),https://www.w3schools.com/java/
+Java,Beginner,Java is?,Platform dependent,Platform independent,Hardware,OS,Platform independent,https://www.w3schools.com/java/
+
+Java,Intermediate,What is OOP concept?,Procedure based,Object based,Class based,All,All,https://www.w3schools.com/java/
+Java,Intermediate,Which supports inheritance?,Class,Interface,Both,None,Both,https://www.w3schools.com/java/
+Java,Intermediate,What is constructor?,Method,Block,Special method,Variable,Special method,https://www.w3schools.com/java/
+Java,Intermediate,Which collection does not allow duplicates?,List,Set,Map,Queue,Set,https://www.w3schools.com/java/
+Java,Intermediate,Which keyword prevents inheritance?,private,static,final,protected,final,https://www.w3schools.com/java/
+
+Java,Advanced,What is JVM?,Java compiler,Runtime environment,Editor,IDE,Runtime environment,https://www.w3schools.com/java/
+Java,Advanced,What is multithreading?,Multiple processes,Multiple threads,Single thread,CPU scheduling,Multiple threads,https://www.w3schools.com/java/
+Java,Advanced,What is garbage collection?,Memory allocation,Memory deallocation,Compilation,Execution,Memory deallocation,https://www.w3schools.com/java/
+Java,Advanced,Which is checked exception?,NullPointerException,ArrayIndexOutOfBounds,IOException,ArithmeticException,IOException,https://www.w3schools.com/java/
+Java,Advanced,What is synchronization?,Thread communication,Thread safety,Deadlock,Concurrency,Thread safety,https://www.w3schools.com/java/
+
+C,Beginner,Who developed C language?,Dennis Ritchie,James Gosling,Bjarne Stroustrup,Guido,Dennis Ritchie,https://www.w3schools.com/c/index.php
+C,Beginner,C is which type of language?,High level,Low level,Middle level,Script,Middle level,https://www.w3schools.com/c/index.php
+C,Beginner,Which symbol ends a statement?,.,:,;,#,;,https://www.w3schools.com/c/index.php
+C,Beginner,Which function prints output?,scanf,printf,input,cout,printf,https://www.w3schools.com/c/index.php
+C,Beginner,Which file is needed for printf?,stdio.h,conio.h,stdlib.h,string.h,stdio.h,https://www.w3schools.com/c/index.php
+
+C,Intermediate,What is pointer?,Variable,Address holder,Function,Array,Address holder,https://www.w3schools.com/c/index.php
+C,Intermediate,Which operator gives address?,*,&,%,@,&,https://www.w3schools.com/c/index.php
+C,Intermediate,What is array?,Collection of values,Single value,Function,Pointer,Collection of values,https://www.w3schools.com/c/index.php
+C,Intermediate,Which loop checks condition first?,do-while,for,while,foreach,for,https://www.w3schools.com/c/index.php
+C,Intermediate,What is structure?,User-defined datatype,Function,Loop,Pointer,User-defined datatype,https://www.w3schools.com/c/index.php
+
+C,Advanced,What is dangling pointer?,Valid pointer,Freed memory pointer,Null pointer,Array pointer,Freed memory pointer,https://www.w3schools.com/c/index.php
+C,Advanced,What is memory leak?,Unused memory not freed,Stack overflow,Seg fault,Compilation error,Unused memory not freed,https://www.w3schools.com/c/index.php
+C,Advanced,What is recursion?,Looping,Function calling itself,Iteration,Jump,Function calling itself,https://www.w3schools.com/c/index.php
+C,Advanced,Which storage class has longest lifetime?,auto,register,static,extern,static,https://www.w3schools.com/c/index.php
+C,Advanced,What is segmentation fault?,Compile error,Runtime error,Logic error,Syntax error,Runtime error,https://www.w3schools.com/c/index.php
+
+Communication,Beginner,What is communication?,Talking only,Information exchange,Writing only,Listening only,Information exchange,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Which is verbal communication?,Email,Phone call,Gestures,Posters,Phone call,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Which skill improves communication?,Listening,Ignoring,Interrupting,Arguing,Listening,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,What is body language?,Spoken words,Written words,Non-verbal cues,Emails,Non-verbal cues,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Eye contact shows?,Confidence,Anger,Boredom,Fear,Confidence,https://www.udemy.com/topic/communication-skills/free/
+
+Communication,Intermediate,What is active listening?,Hearing only,Full attention,Interrupting,Ignoring,Full attention,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What is feedback?,Response,Question,Order,Instruction,Response,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,Which improves clarity?,Simple words,Complex words,Silence,Speed,Simple words,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What is professional communication?,Casual talk,Workplace interaction,Gossip,Debate,Workplace interaction,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What reduces misunderstanding?,Assumptions,Clarification,Silence,Speed,Clarification,https://www.udemy.com/topic/communication-skills/free/
+
+Communication,Advanced,What is assertive communication?,Aggressive,Passive,Confident and respectful,Silent,Confident and respectful,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What is conflict resolution?,Avoiding conflict,Solving disputes,Arguing,Ignoring,Solving disputes,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What is emotional intelligence?,IQ,EQ,Technical skill,Speed,EQ,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,Which is barrier to communication?,Noise,Clarity,Feedback,Listening,Noise,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What improves leadership communication?,Transparency,Silence,Orders only,Fear,Transparency,https://www.udemy.com/topic/communication-skills/free/
+

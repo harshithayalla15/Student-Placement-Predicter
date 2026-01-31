@@ -1,0 +1,42 @@
+Skill,Level,Question,Option1,Option2,Option3,Option4,Answer,Reference
+Communication Systems,Beginner,What is communication?,Data transfer,Signal transmission,Storage,Processing,Signal transmission,https://www.geeksforgeeks.org/communication-system/
+Communication Systems,Beginner,What carries information?,Noise,Signal,Amplifier,Antenna,Signal,https://www.geeksforgeeks.org/signals-in-communication/
+Communication Systems,Beginner,Which is analog signal?,Sine wave,Digital pulse,Square wave,Binary,Sine wave,https://www.geeksforgeeks.org/analog-and-digital-signals/
+Communication Systems,Intermediate,What is modulation?,Signal amplification,Frequency change,Encoding message,Noise removal,Encoding message,https://www.geeksforgeeks.org/modulation-in-communication-systems/
+Communication Systems,Advanced,What is AM?,Amplitude Modulation,Angle Modulation,Phase Modulation,Frequency Shift,Amplitude Modulation,https://www.geeksforgeeks.org/amplitude-modulation/
+
+Digital Electronics,Beginner,What is a logic gate?,Amplifier,Switching circuit,Memory device,Sensor,Switching circuit,https://www.geeksforgeeks.org/logic-gates/
+Digital Electronics,Beginner,AND gate output is 1 when?,Any input is 1,All inputs are 1,All inputs are 0,None,All inputs are 1,https://www.geeksforgeeks.org/and-gate/
+Digital Electronics,Intermediate,What is flip-flop?,Memory element,Amplifier,Encoder,Decoder,Memory element,https://www.geeksforgeeks.org/flip-flop/
+Digital Electronics,Advanced,What is multiplexer?,One to many,Many to one,Adder,Counter,Many to one,https://www.geeksforgeeks.org/multiplexers/
+
+Signals,Beginner,What is signal?,Noise,Information carrier,Distortion,Amplifier,Information carrier,https://www.geeksforgeeks.org/signals-and-systems/
+Signals,Intermediate,What is Fourier series?,Time signal,Frequency representation,Noise filter,Modulation,Frequency representation,https://www.geeksforgeeks.org/fourier-series/
+Signals,Advanced,What is convolution?,Signal multiplication,Signal addition,Signal overlap,Signal filtering,Signal overlap,https://www.geeksforgeeks.org/convolution-of-signals/
+
+Microprocessors,Beginner,What is microprocessor?,Memory,CPU,Input device,Output device,CPU,https://www.geeksforgeeks.org/microprocessor/
+Microprocessors,Intermediate,What is instruction set?,Commands,Registers,Memory,ALU,Commands,https://www.geeksforgeeks.org/instruction-set/
+Microprocessors,Advanced,What is pipelining?,Parallel execution,Serial execution,Memory access,Interrupt handling,Parallel execution,https://www.geeksforgeeks.org/pipelining-in-cpu/
+
+Networking,Beginner,What is network?,Single computer,Connected systems,Server only,Internet only,Connected systems,https://www.geeksforgeeks.org/computer-network-tutorials/
+Networking,Intermediate,What is TCP?,Connection oriented,Connectionless,Routing protocol,Application layer,Connection oriented,https://www.geeksforgeeks.org/tcp-ip-model/
+Networking,Advanced,What is OSI model?,5 layers,7 layers,3 layers,4 layers,7 layers,https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/
+
+Communication,Beginner,What is communication?,Talking only,Information exchange,Writing only,Listening only,Information exchange,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Which is verbal communication?,Email,Phone call,Gestures,Posters,Phone call,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Which skill improves communication?,Listening,Ignoring,Interrupting,Arguing,Listening,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,What is body language?,Spoken words,Written words,Non-verbal cues,Emails,Non-verbal cues,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Eye contact shows?,Confidence,Anger,Boredom,Fear,Confidence,https://www.udemy.com/topic/communication-skills/free/
+
+Communication,Intermediate,What is active listening?,Hearing only,Full attention,Interrupting,Ignoring,Full attention,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What is feedback?,Response,Question,Order,Instruction,Response,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,Which improves clarity?,Simple words,Complex words,Silence,Speed,Simple words,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What is professional communication?,Casual talk,Workplace interaction,Gossip,Debate,Workplace interaction,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What reduces misunderstanding?,Assumptions,Clarification,Silence,Speed,Clarification,https://www.udemy.com/topic/communication-skills/free/
+
+Communication,Advanced,What is assertive communication?,Aggressive,Passive,Confident and respectful,Silent,Confident and respectful,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What is conflict resolution?,Avoiding conflict,Solving disputes,Arguing,Ignoring,Solving disputes,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What is emotional intelligence?,IQ,EQ,Technical skill,Speed,EQ,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,Which is barrier to communication?,Noise,Clarity,Feedback,Listening,Noise,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What improves leadership communication?,Transparency,Silence,Orders only,Fear,Transparency,https://www.udemy.com/topic/communication-skills/free/
+

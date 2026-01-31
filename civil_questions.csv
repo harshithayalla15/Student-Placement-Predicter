@@ -1,0 +1,42 @@
+Skill,Level,Question,Option1,Option2,Option3,Option4,Answer,Reference
+Structures,Beginner,What is civil engineering?,Software field,Infrastructure engineering,Medical field,Electrical field,Infrastructure engineering,https://www.geeksforgeeks.org/civil-engineering/
+Structures,Beginner,Which material is strongest in tension?,Concrete,Steel,Brick,Wood,Steel,https://www.geeksforgeeks.org/properties-of-building-materials/
+Structures,Beginner,What does RCC stand for?,Reinforced Cement Concrete,Rapid Construction Code,Rigid Concrete Column,Raw Cement Concrete,Reinforced Cement Concrete,https://www.geeksforgeeks.org/reinforced-cement-concrete/
+Structures,Beginner,Unit of force?,Joule,Newton,Watt,Pascal,Newton,https://www.geeksforgeeks.org/units-and-measurements/
+Structures,Beginner,Which load is permanent?,Live load,Wind load,Dead load,Earthquake load,Dead load,https://www.geeksforgeeks.org/types-of-loads-on-structures/
+
+Structures,Intermediate,What is bending moment?,Axial force,Twisting force,Internal moment,Shear force,Internal moment,https://www.geeksforgeeks.org/bending-moment-and-shear-force/
+Structures,Intermediate,What is shear force?,Parallel force,Tensile force,Normal force,Compression force,Parallel force,https://www.geeksforgeeks.org/bending-moment-and-shear-force/
+Structures,Intermediate,What test is done on cement?,Slump test,Soundness test,Compression test,Impact test,Soundness test,https://www.geeksforgeeks.org/tests-on-cement/
+Structures,Intermediate,What is factor of safety?,Strength/Stress,Stress/Strength,Load/Area,Area/Load,Strength/Stress,https://www.geeksforgeeks.org/factor-of-safety/
+Structures,Intermediate,Which beam is fixed at both ends?,Cantilever,Simply supported,Fixed beam,Overhanging beam,Fixed beam,https://www.geeksforgeeks.org/types-of-beams-in-civil-engineering/
+
+Structures,Advanced,What is limit state design?,Elastic method,Working stress,Safety based design,Plastic method,Safety based design,https://www.geeksforgeeks.org/limit-state-design/
+Structures,Advanced,What causes buckling?,Tension,Compression,Bending,Torsion,Compression,https://www.geeksforgeeks.org/buckling-of-columns/
+Structures,Advanced,What is indeterminate structure?,Extra supports,Insufficient supports,Stable structure,Weak structure,Extra supports,https://www.geeksforgeeks.org/statically-indeterminate-structures/
+Structures,Advanced,Which analysis uses stiffness matrix?,Working stress,Finite element,Plastic analysis,Elastic analysis,Finite element,https://www.geeksforgeeks.org/finite-element-method/
+Structures,Advanced,What is creep?,Sudden failure,Time dependent deformation,Elastic behavior,Brittle fracture,Time dependent deformation,https://www.geeksforgeeks.org/creep-of-concrete/
+
+
+Geotechnical,Beginner,What is soil mechanics?,Soil behavior study,Rock study,Water study,Structure study,Soil behavior study,https://nptel.ac.in
+Geotechnical,Intermediate,What is bearing capacity?,Load carrying capacity,Stress,Strain,Settlement,Load carrying capacity,https://nptel.ac.in
+Geotechnical,Advanced,What is consolidation?,Volume reduction,Settlement,Compression,Expansion,Volume reduction,https://nptel.ac.in
+
+Communication,Beginner,What is communication?,Talking only,Information exchange,Writing only,Listening only,Information exchange,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Which is verbal communication?,Email,Phone call,Gestures,Posters,Phone call,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Which skill improves communication?,Listening,Ignoring,Interrupting,Arguing,Listening,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,What is body language?,Spoken words,Written words,Non-verbal cues,Emails,Non-verbal cues,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Eye contact shows?,Confidence,Anger,Boredom,Fear,Confidence,https://www.udemy.com/topic/communication-skills/free/
+
+Communication,Intermediate,What is active listening?,Hearing only,Full attention,Interrupting,Ignoring,Full attention,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What is feedback?,Response,Question,Order,Instruction,Response,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,Which improves clarity?,Simple words,Complex words,Silence,Speed,Simple words,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What is professional communication?,Casual talk,Workplace interaction,Gossip,Debate,Workplace interaction,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What reduces misunderstanding?,Assumptions,Clarification,Silence,Speed,Clarification,https://www.udemy.com/topic/communication-skills/free/
+
+Communication,Advanced,What is assertive communication?,Aggressive,Passive,Confident and respectful,Silent,Confident and respectful,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What is conflict resolution?,Avoiding conflict,Solving disputes,Arguing,Ignoring,Solving disputes,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What is emotional intelligence?,IQ,EQ,Technical skill,Speed,EQ,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,Which is barrier to communication?,Noise,Clarity,Feedback,Listening,Noise,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What improves leadership communication?,Transparency,Silence,Orders only,Fear,Transparency,https://www.udemy.com/topic/communication-skills/free/
+

@@ -1,0 +1,38 @@
+Skill,Level,Question,Option1,Option2,Option3,Option4,Answer,Reference
+Thermodynamics,Beginner,What is thermodynamics?,Heat study,Motion study,Force study,Energy study,Energy study,https://www.geeksforgeeks.org/thermodynamics/
+Thermodynamics,Intermediate,What is first law?,Energy conservation,Entropy law,Motion law,Heat law,Energy conservation,https://www.geeksforgeeks.org/first-law-of-thermodynamics/
+Thermodynamics,Advanced,What is entropy?,Energy loss,Disorder measure,Heat flow,Work done,Disorder measure,https://www.geeksforgeeks.org/entropy/
+
+Strength of Materials,Beginner,What is stress?,Force/Area,Area/Force,Load,Pressure,Force/Area,https://www.geeksforgeeks.org/strength-of-materials/
+Strength of Materials,Intermediate,What is strain?,Change/Length,Force/Area,Stress/Strain,Load,Change/Length,https://www.geeksforgeeks.org/strain/
+Strength of Materials,Advanced,What is Youngs modulus?,Stress/Strain,Strain/Stress,Force/Area,Load,Stress/Strain,https://www.geeksforgeeks.org/youngs-modulus/
+
+Manufacturing,Beginner,What is casting?,Metal melting,Metal forming,Metal cutting,Welding,Metal forming,https://www.geeksforgeeks.org/casting-process/
+Manufacturing,Intermediate,What is machining?,Material removal,Material addition,Heating,Cooling,Material removal,https://www.geeksforgeeks.org/machining/
+Manufacturing,Advanced,What is CNC?,Manual machine,Automatic machine,Computer controlled,Hydraulic,Computer controlled,https://www.geeksforgeeks.org/cnc-machine/
+
+Machines,Beginner,What is machine?,Energy converter,Force producer,Tool,Structure,Energy converter,https://www.geeksforgeeks.org/mechanical-machines/
+Machines,Intermediate,What is gear?,Speed changer,Load carrier,Support,Joint,Speed changer,https://www.geeksforgeeks.org/gears/
+Machines,Advanced,What is flywheel?,Energy storage,Speed reducer,Brake,Clutch,Energy storage,https://www.geeksforgeeks.org/flywheel/
+
+Engineering Mechanics,Beginner,What is mechanics?,Force study,Heat study,Energy study,Motion study,Force study,https://www.geeksforgeeks.org/engineering-mechanics/
+Engineering Mechanics,Intermediate,What is equilibrium?,Balanced forces,Unbalanced forces,Motion,Acceleration,Balanced forces,https://www.geeksforgeeks.org/equilibrium-of-forces/
+Engineering Mechanics,Advanced,What is moment?,Force×Distance,Force/Area,Mass×Velocity,Energy,Force×Distance,https://www.geeksforgeeks.org/moment-of-force/
+
+Communication,Beginner,What is communication?,Talking only,Information exchange,Writing only,Listening only,Information exchange,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Which is verbal communication?,Email,Phone call,Gestures,Posters,Phone call,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Which skill improves communication?,Listening,Ignoring,Interrupting,Arguing,Listening,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,What is body language?,Spoken words,Written words,Non-verbal cues,Emails,Non-verbal cues,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Eye contact shows?,Confidence,Anger,Boredom,Fear,Confidence,https://www.udemy.com/topic/communication-skills/free/
+
+Communication,Intermediate,What is active listening?,Hearing only,Full attention,Interrupting,Ignoring,Full attention,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What is feedback?,Response,Question,Order,Instruction,Response,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,Which improves clarity?,Simple words,Complex words,Silence,Speed,Simple words,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What is professional communication?,Casual talk,Workplace interaction,Gossip,Debate,Workplace interaction,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What reduces misunderstanding?,Assumptions,Clarification,Silence,Speed,Clarification,https://www.udemy.com/topic/communication-skills/free/
+
+Communication,Advanced,What is assertive communication?,Aggressive,Passive,Confident and respectful,Silent,Confident and respectful,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What is conflict resolution?,Avoiding conflict,Solving disputes,Arguing,Ignoring,Solving disputes,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What is emotional intelligence?,IQ,EQ,Technical skill,Speed,EQ,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,Which is barrier to communication?,Noise,Clarity,Feedback,Listening,Noise,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What improves leadership communication?,Transparency,Silence,Orders only,Fear,Transparency,https://www.udemy.com/topic/communication-skills/free/

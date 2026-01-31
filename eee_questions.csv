@@ -1,0 +1,41 @@
+Skill,Level,Question,Option1,Option2,Option3,Option4,Answer,Reference
+Electrical Machines,Beginner,What is transformer?,Motor,Generator,Static device,Sensor,Static device,https://www.geeksforgeeks.org/transformer/
+Electrical Machines,Beginner,Which converts electrical to mechanical?,Generator,Motor,Rectifier,Inverter,Motor,https://www.geeksforgeeks.org/electric-motor/
+Electrical Machines,Intermediate,What is efficiency?,Output/Input,Input/Output,Loss/Input,Power loss,Output/Input,https://www.geeksforgeeks.org/efficiency-of-transformer/
+Electrical Machines,Advanced,What causes losses?,Resistance,Voltage,Frequency,Capacitance,Resistance,https://www.geeksforgeeks.org/losses-in-transformer/
+
+Power Systems,Beginner,What is power system?,Generation only,Transmission only,Complete network,Motor,Complete network,https://www.geeksforgeeks.org/power-system/
+Power Systems,Intermediate,What is load factor?,Peak load/Average load,Average load/Peak load,Power factor,Efficiency,Average load/Peak load,https://www.geeksforgeeks.org/load-factor/
+Power Systems,Advanced,What is fault?,Normal operation,Short circuit,Load increase,Efficiency loss,Short circuit,https://www.geeksforgeeks.org/faults-in-power-system/
+
+Control Systems,Beginner,What is control system?,Manual system,Automatic system,Mechanical system,Electrical system,Automatic system,https://www.geeksforgeeks.org/control-system/
+Control Systems,Intermediate,What is feedback?,Output return,Input signal,Noise,Disturbance,Output return,https://www.geeksforgeeks.org/feedback-in-control-system/
+Control Systems,Advanced,What is stability?,System balance,Output constant,No error,System response,System balance,https://www.geeksforgeeks.org/stability-of-control-system/
+
+Measurements,Beginner,What is measurement?,Guessing,Comparison,Calculation,Estimation,Comparison,https://www.geeksforgeeks.org/electrical-measurements/
+Measurements,Intermediate,What instrument measures current?,Voltmeter,Ammeter,Ohmmeter,Wattmeter,Ammeter,https://www.geeksforgeeks.org/ammeter/
+Measurements,Advanced,What is calibration?,Adjustment,Testing,Standard comparison,Replacement,Standard comparison,https://www.geeksforgeeks.org/calibration/
+
+Basic Electronics,Beginner,What is diode?,Amplifier,Rectifier,Switch,Oscillator,Rectifier,https://www.geeksforgeeks.org/diodes/
+Basic Electronics,Intermediate,What is transistor?,Switch/Amplifier,Sensor,Motor,Generator,Switch/Amplifier,https://www.geeksforgeeks.org/transistor/
+Basic Electronics,Advanced,What is op-amp?,Comparator,Amplifier,Oscillator,Rectifier,Amplifier,https://www.geeksforgeeks.org/operational-amplifier/
+
+
+Communication,Beginner,What is communication?,Talking only,Information exchange,Writing only,Listening only,Information exchange,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Which is verbal communication?,Email,Phone call,Gestures,Posters,Phone call,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Which skill improves communication?,Listening,Ignoring,Interrupting,Arguing,Listening,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,What is body language?,Spoken words,Written words,Non-verbal cues,Emails,Non-verbal cues,https://www.udemy.com/topic/communication-skills/free/
+Communication,Beginner,Eye contact shows?,Confidence,Anger,Boredom,Fear,Confidence,https://www.udemy.com/topic/communication-skills/free/
+
+Communication,Intermediate,What is active listening?,Hearing only,Full attention,Interrupting,Ignoring,Full attention,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What is feedback?,Response,Question,Order,Instruction,Response,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,Which improves clarity?,Simple words,Complex words,Silence,Speed,Simple words,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What is professional communication?,Casual talk,Workplace interaction,Gossip,Debate,Workplace interaction,https://www.udemy.com/topic/communication-skills/free/
+Communication,Intermediate,What reduces misunderstanding?,Assumptions,Clarification,Silence,Speed,Clarification,https://www.udemy.com/topic/communication-skills/free/
+
+Communication,Advanced,What is assertive communication?,Aggressive,Passive,Confident and respectful,Silent,Confident and respectful,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What is conflict resolution?,Avoiding conflict,Solving disputes,Arguing,Ignoring,Solving disputes,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What is emotional intelligence?,IQ,EQ,Technical skill,Speed,EQ,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,Which is barrier to communication?,Noise,Clarity,Feedback,Listening,Noise,https://www.udemy.com/topic/communication-skills/free/
+Communication,Advanced,What improves leadership communication?,Transparency,Silence,Orders only,Fear,Transparency,https://www.udemy.com/topic/communication-skills/free/
+
